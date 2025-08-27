@@ -1,2 +1,2 @@
 # KimoLog
-#Hie there
+#Hi there
